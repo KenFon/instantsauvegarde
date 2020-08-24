@@ -1,0 +1,11 @@
+export 'utils_widget/dots_indicator.dart';
+export 'utils_widget/gradient_text.dart';
+export 'utils_widget/boxfield.dart';
+export 'bottom_nav/bottom_curve_painter.dart';
+export 'utils_widget/visibility.dart';
+export 'utils_widget/tile_row.dart';
+export 'utils_widget/upper_curve_clipper.dart';
+export 'utils_widget/progress_widget.dart';
+export 'utils_widget/tabs_chips.dart';
+export 'settings_widget/setting_section.dart';
+export 'utils_widget/switch_row.dart';

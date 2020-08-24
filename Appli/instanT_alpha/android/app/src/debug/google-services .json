@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1075630633790",
+    "firebase_url": "https://instant-632b9.firebaseio.com",
+    "project_id": "instant-632b9",
+    "storage_bucket": "instant-632b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075630633790:android:d777aab3314ec35fce726f",
+        "android_client_info": {
+          "package_name": "com.example.instanT_alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075630633790-s584dotvadd38g2lnos21nqsr5n50ftf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhLQ_NvbJkrfXxjdLfKgPWcbzrkqlmeyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075630633790-s584dotvadd38g2lnos21nqsr5n50ftf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445033464529",
+    "firebase_url": "https://mystorytelling-52d96.firebaseio.com",
+    "project_id": "mystorytelling-52d96",
+    "storage_bucket": "mystorytelling-52d96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445033464529:android:6b551eb914f4b28f7f3bf0",
+        "android_client_info": {
+          "package_name": "com.beta.instant_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445033464529-vo0kuuu799co1ps9fejl5j754ns05k5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjbx9eHVvsClnXsUgVYJ-ExviD77mGQdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445033464529-vo0kuuu799co1ps9fejl5j754ns05k5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
